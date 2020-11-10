@@ -8,7 +8,7 @@ The data file for October 2020 is already in the repo (`10.csv`), but you can do
 
 ## Task: make sense of the data!
 
-Your task is to read the CSV file into a pandas dataframe, and to find interesting things in it. You can start a new .py script or a Jupyter notebook. Here are some suggestions:
+Your task is to read the CSV file into a pandas dataframe, and to find interesting things in it. You can start a new .py script or a Jupyter notebook. Here are some suggestions -- **you will probably only have time for one or two during the workshop, so pick one that you like!**
 
 - What is the average journey time and distance of bike trips on weekdays? What about weekends?
 - How many stations appear in the dataset? Which were the most common starting stations? Think about how to display/plot the results of your analysis.
